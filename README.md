@@ -5,11 +5,11 @@ I build full-stack applications and intelligent systems using AI
 
 ## About Me
 
-- 🎓 AIML Enthusiast  
-- 🤖 Strong in Machine Learning & AI concepts  
-- ⚙️ Backend development with real-world project experience  
-- 🏗️ Good understanding of System Design fundamentals  
-- 🚀 Building scalable applications using AI-driven workflows  
+🎓 AIML Enthusiast  
+🤖 Strong in Machine Learning & AI concepts  
+⚙️ Backend development with real-world project experience  
+🏗️ Good understanding of System Design fundamentals  
+🚀 Building scalable applications using AI-driven workflows  
 
 
 ## What I’m Focused On
