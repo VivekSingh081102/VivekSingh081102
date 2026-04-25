@@ -1,7 +1,7 @@
 # Hi, I'm Vivek Singh 👋
 
 AI/ML Enthusiast | Backend Developer | System Design Learner  
-I build full-stack applications and intelligent systems using AI
+I build full-stack applications and intelligent systems
 
 ## About Me
 
@@ -19,8 +19,6 @@ I build full-stack applications and intelligent systems using AI
 - Creating **real-world projects that solve actual problems**
 - Leveraging **AI agents to speed up development**
 
-
----
 
 ## Personal Note
 
