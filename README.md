@@ -12,33 +12,6 @@ I build full-stack applications and intelligent systems using AI
 - 🚀 Building scalable applications using AI-driven workflows  
 
 
-
-## 🛠️ Tech Stack
-
-### Languages
-- C
-- C++
-- Python
-- JavaScript
-- SQL
-
-### Backend & Tools
-- Node.js / Express
-- Django
-- REST APIs
-- MySQL / MongoDB
-
-### AI / ML
-- Scikit-learn
-- Pandas / NumPy
-- Langchain / LangGraph
-- Model building & evaluation
-- Applied AI projects
-
-### Frontend (Working Knowledge)
-- HTML / CSS / JS
-
-
 ## What I’m Focused On
 
 - Building **end-to-end AI-powered applications**
